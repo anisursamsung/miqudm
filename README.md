@@ -1,5 +1,9 @@
 # miqudm - Wayland Display Manager
 
+> [!WARNING]
+> **Status: Unusable for now**
+> `miqudm` is under active development and is currently unusable / not ready for production use.
+
 `miqudm` is a lightweight, pure Wayland Display Manager and Session Greeter designed for the `miqu` desktop ecosystem and modern Linux systems.
 
 ---
